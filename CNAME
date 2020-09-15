@@ -1,5 +1,5 @@
 $ dig WWW.GELA.IO +nostats +nocomments +nocmd
-    > ;WWW.gela.io.                     IN      A
-    > WWW.gela.io.              3592    IN      CNAME   gelacoin.github.io.
+    > ;WWW.GELA.IO.                     IN      A
+    > WWW.GELA.IO.              3592    IN      CNAME   GELACOIN.github.io.
     > gelacoin.github.io.       43192   IN      CNAME    GITHUB-PAGES-SERVER .
     >  GITHUB-PAGES-SERVER .    22      IN      A       192.0.2.1
